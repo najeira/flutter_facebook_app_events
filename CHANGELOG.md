@@ -1,4 +1,5 @@
 ## 0.19.6
+- Bump android and ios sdk to version 18.0
 - Removed "import io.flutter.plugin.common.PluginRegistry.Registrar"
 
 ## 0.19.5
